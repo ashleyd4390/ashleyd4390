@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashley!
 - 👀 I’m interested in nail art, badminton, and volleyball
-- 🌱 I’m currently learning SQL and cloud computing
+- 🌱 I’m currently learning SQL and data engineering
 - 📫 How to reach me: ashleyd4@uci.edu
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I have a dog named Penelope
